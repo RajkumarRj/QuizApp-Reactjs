@@ -1,5 +1,7 @@
 # Current Affairs Quiz App
 
+Hosted Link - https://tourmaline-cupcake-2331ab.netlify.app/
+
 This is a React-based quiz application that tests users on current affairs. The app features a dynamic question set, score tracking, and a review of incorrect answers.
 
 ## Features
