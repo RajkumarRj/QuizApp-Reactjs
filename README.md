@@ -30,7 +30,3 @@ To add or modify quiz questions, edit the `quiz.json` file in the `src` director
 }
 
 
-Dependencies
-
-React
-SweetAlert2 for modal dialogs
