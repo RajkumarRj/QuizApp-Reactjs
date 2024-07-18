@@ -1,0 +1,79 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.container {
+  border: 2px solid black;
+  background-color: gray;
+  padding: 40px;
+  border-radius: 20px;
+}
+h1 {
+  color: #987d9a;
+}
+h3 {
+  color: #fefbd8;
+}
+.qp-head {
+  color: #36ba98;
+}
+h4 {
+  color: #ffb22c;
+}
+.options {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+button {
+  padding: 10px;
+  border-radius: 10px;
+  color: #ffc7ed;
+
+  font-size: 16px;
+  font-weight: 700;
+  border: none;
+}
+button:hover {
+  background-color: #81a263;
+  color: white;
+}
+.finalscore {
+  background-color: #d20062;
+  padding: 5px;
+  font-size: 18px;
+  font-weight: 600;
+  border-radius: 10px;
+}
+strong {
+  color: yellow;
+}
+.reset {
+  color: rgb(240, 114, 114);
+}
+
+.popup span:last-child {
+  color: green;
+  font-weight: 700;
+}
+.popup span:first-child {
+  color: yellow;
+}
+.popup {
+  border-radius: 50px;
+  background: #4b4444;
+  box-shadow: inset -25px 25px 50px #403a3a, inset 25px -25px 50px #564e4e;
+  padding: 20px;
+  margin-bottom: 20px;
+}

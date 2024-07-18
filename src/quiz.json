@@ -1,0 +1,34 @@
+[
+  {
+    "question": "What organization is developing the Strawberry project, aimed at pioneering advanced AI reasoning?",
+    "options": ["Google", "OpenAI", "Microsoft", "IBM"],
+    "correct": "OpenAI"
+  },
+  {
+    "question": "Which country launched the trial operation of the world's first 3D-printed electric abra?",
+    "options": ["UAE", "USA", " Japan", "Germany"],
+    "correct": "UAE"
+  },
+  {
+    "question": "Which country approved a plan to build a new orbital space station by 2033?",
+    "options": ["United States", "Russia", " China", "India"],
+    "correct": "Russia"
+  },
+
+  {
+    "question": "Who created the world's first AI dress with robotic snakes attached to it?",
+    "options": [
+      "Hiroshi Ishiguro",
+      "Christina Ernst",
+      "Marc Raibert",
+      "Takeo Kanade"
+    ],
+    "correct": "Christina Ernst"
+  },
+
+  {
+    "question": "Which institution developed a 3D lung model for tuberculosis research?",
+    "options": ["IISc", "IIT Delhi", "AIIMS Delhi", "ICMR"],
+    "correct": "IISc"
+  }
+]
